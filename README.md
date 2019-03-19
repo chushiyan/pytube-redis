@@ -33,7 +33,7 @@ DATE_FORMAT = '%Y-%m-%d  %H:%M:%S %a '
 (4)specify the numbers of download thread
 THREAD_COUNT = 3
 ```
-
+***
 + 执行run.py
 + 3 execute the run.py
  like this :(specify the url of youtube playlist)
