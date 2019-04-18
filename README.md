@@ -9,8 +9,8 @@
 
 + 1 Fisrt of all,install the pytube module ,the python redis module
 ```
-pip install pytube
-pip install redis
+pip3 install pytube
+pip3 install redis
 ```
 ***
 + 2 Modify the settings.py of this project to specify your own configuration
